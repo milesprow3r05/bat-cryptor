@@ -1,4 +1,4 @@
-# bat-cryptor
+# POSSIBLE VIRUS! bat-cryptor
 One of the best BATCH cryptors. Made in :ru:.<br>
 Minimal requirements: Microsoft&reg; Windows&reg; NT 6.1
 ## Features
