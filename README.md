@@ -1,8 +1,7 @@
-# bat-cryptor
-Best BAT Cryptor! Works starting from Windows 7 :)
-# Features :
-- works starting from Windows 7
-- encrypts depending on the power of the computer
-- run from the admin if you need to destroy system32, and so it is not necessary. :)
-
-And that's it!
+# POSSIBLE VIRUS! bat-cryptor
+One of the best BATCH cryptors. Made in :ru:.<br>
+Minimal requirements: Microsoft&reg; Windows&reg; NT 6.1
+## Features
+* **Hey! DO NOT RUN IT *UNDER ADMINISTRATOR* OR WITH *DISABLED UAC REQUESTS*, unless you really do want to destroy the *system32* directory too!**
+* Encrypting method depending on computing power of the device CPU.
+</ul>
